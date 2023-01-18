@@ -1,5 +1,4 @@
-
-// Your code here
+const helloMessage = require(' ..hello/message ')
 
 /****************************************************************************/
 /******************* DO NOT EDIT CODE BELOW THIS LINE ***********************/
